@@ -1,6 +1,6 @@
 # Bank API
 
-This is a simple bank API built with Express.js that allows users to perform basic banking operations.
+This is a Node.js API that simulates a bank with functionalities for creating accounts, depositing/withdrawing money, transferring funds, and checking account balance and transaction history.
 
 ## Features
 
